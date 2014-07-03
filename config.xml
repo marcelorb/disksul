@@ -3,11 +3,13 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "disksul"
         versionCode = "10" 
-        version     = "1.0.0" >
+        version     = "1.0.0" 
+        icon = "icon.png" >
+
         
     <!-- versionCode is optional and Android only -->
 
-    <name>Disksul</name>
+    <name>Gas/Etanol</name>
 
     <description>
         Verifica se é viável abastecer no Etanol ou Gasolina. 
