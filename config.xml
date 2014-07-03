@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-       <icon src="ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
         <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "disksul"
         versionCode = "10" 
         version     = "1.0.0" >
-
+<icon src="ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
         
     <!-- versionCode is optional and Android only -->
 
