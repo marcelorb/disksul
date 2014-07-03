@@ -1,11 +1,11 @@
+<icon src="icon.png" width="60" height="60" />
 <?xml version="1.0" encoding="UTF-8" ?>
         <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "disksul"
         versionCode = "10" 
         version     = "1.0.0" >
-        <icon src="https://cloud.githubusercontent.com/assets/8058321/3470000/cc5a4c4e-02b5-11e4-9376-1734d5110f33.png" width="60" height="60" gap:platform="android" />
-
+        
     <!-- versionCode is optional and Android only -->
 
     <name>Disksul</name>
